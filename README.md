@@ -1,4 +1,4 @@
-# DeepFleet_Coding_Challenge
+# Simple Shopping Cart Website
 A Node.js application built with ReactJs, Express.js, and MYSQL using Apache Server with the help of CORS support.
 
 ## Prerequisites
